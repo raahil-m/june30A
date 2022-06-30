@@ -1,2 +1,2 @@
 # june30A
-temporary
+temporary... here is my read me file
